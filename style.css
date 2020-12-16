@@ -1,0 +1,17 @@
+.menu{
+    display:flex;
+    justify-content:space-between;
+    background-color: #faedbf;
+
+}
+
+.para{
+    display: flex;
+    background-color: #abcdef;
+ padding: 25px;
+}
+
+body{
+    margin-right: 0px;
+    padding: 25px;
+}
